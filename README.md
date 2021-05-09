@@ -10,4 +10,4 @@ Getting started:
 
 3: **Edit the help command to your liking**
 
-4: **Inside the events/client/ready.js remove the `console.log()` function**
+4: **Inside events/client/ready.js remove the `console.log()` function**
